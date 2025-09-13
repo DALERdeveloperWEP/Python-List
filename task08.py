@@ -1,0 +1,3 @@
+city = ["UZBEKISTON","TURKIYA","QOZOQISTON","AQSH","ANGLIYA"]
+city[1] = "AZARBAYJON"
+print(city)

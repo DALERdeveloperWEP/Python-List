@@ -1,0 +1,2 @@
+city = ["UZBEKISTON","TURKIYA","QOZOQISTON","AQSH","ANGLIYA"]
+print(city[-1])
